@@ -65,3 +65,9 @@ flutter test
   error, so a flaky page fetch never loses what's already on screen.
 - The detail screen's pull-to-refresh is a no-op placeholder (a single product rarely
   needs refreshing mid-view); it's there mainly for scroll-physics consistency.
+
+# AI USAGE
+
+- API integration 
+- Finalization of the app (clean structure/logic, data and presentation files)
+- Product repository test

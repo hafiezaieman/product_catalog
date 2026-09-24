@@ -1,3 +1,6 @@
+# VIDEO DEMO NOTE
+My device have problem with the audio, i could not record it currently. However, if i can reupload the video, ill try submitting with voice narration using other device recorder.
+
 # Product Catalog (Flutter)
 
 A small product catalog app built against the free [DummyJSON](https://dummyjson.com) API.
